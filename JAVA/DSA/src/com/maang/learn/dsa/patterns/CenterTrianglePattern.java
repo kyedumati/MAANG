@@ -1,3 +1,5 @@
+package com.maang.learn.dsa.patterns;
+
 import java.util.Scanner;
 
 public class CenterTrianglePattern {
